@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/8ea5ecfa-7c27-448f-8d78-bfa9f683b5a5" alt="Alt Text" style="width:150%; height:100%;">
+<img src="https://github.com/user-attachments/assets/8ea5ecfa-7c27-448f-8d78-bfa9f683b5a5" alt="Alt Text" style="width:300%; height:100%;">
+
 
 <img src="https://github.com/user-attachments/assets/444e2dc4-7d46-4db8-818f-43c23b9584b1" alt="Alt Text" style="width:15%; height:15%;">
 
@@ -15,7 +16,7 @@ Hi, I’m SATHISH
 - ⚡ Fun fact: I'm shy at first but once I know you well I'll haunt you forever👻
 
 
-<img src="https://github.com/user-attachments/assets/8ea5ecfa-7c27-448f-8d78-bfa9f683b5a5" alt="Alt Text" style="width:150%; height:100%;">
+<img src="https://github.com/user-attachments/assets/8ea5ecfa-7c27-448f-8d78-bfa9f683b5a5" alt="Alt Text" style="width:300%; height:100%;">
 <!---
 Sathish-gun/Sathish-gun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
