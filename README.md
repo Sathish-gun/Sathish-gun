@@ -1,7 +1,8 @@
 ![line-neon](https://github.com/user-attachments/assets/8ea5ecfa-7c27-448f-8d78-bfa9f683b5a5)
 
-<img src="https://github.com/user-attachments/assets/444e2dc4-7d46-4db8-818f-43c23b9584b1" alt="Alt Text" style="width:15%; height:15%;"> 
-Hi, I’m **SATHISH**
+<img src="https://github.com/user-attachments/assets/444e2dc4-7d46-4db8-818f-43c23b9584b1" alt="Alt Text" style="width:15%; height:15%;">
+
+Hi, I’m SATHISH
 
 - 🏢 I have 2 years exprience as Project Engineer at Wipro ltd
 - ⚙️ I have done so many DevOps project using Git, Jenkins, Docker, Kubernetes, Ansible, Terroform, Promethius, Grafana, Splunk etc.
