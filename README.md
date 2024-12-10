@@ -5,7 +5,7 @@
 Hi, I’m SATHISH
 
 - 🏢 I have 2+ years exprience as Project Engineer at Wipro ltd
-- ⚙️ I have done so many DevOps project using Git, Jenkins, Docker, Kubernetes, Ansible, Terroform, Promethius, Grafana, Splunk etc.
+- ⚙️ I have done so many DevOps projects using Git, Jenkins, Docker, Kubernetes, Ansible, Terroform, Promethius, Grafana, Splunk etc.
 - ☁️ I have a strong understanding of AWS and have successfully implemented DevOps projects on the platform.
 - 👀 I’m interested in CICD Technologies on cloud
 - 🌱 I’m currently learning on How to work more efficiently in CICD projects
