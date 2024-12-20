@@ -1,6 +1,6 @@
 ![line-neon](https://github.com/user-attachments/assets/8ea5ecfa-7c27-448f-8d78-bfa9f683b5a5)
 
-<img src="[https://github.com/user-attachments/assets/444e2dc4-7d46-4db8-818f-43c23b9584b1](https://github-production-user-asset-6210df.s3.amazonaws.com/177827603/390101792-444e2dc4-7d46-4db8-818f-43c23b9584b1.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241220%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241220T134241Z&X-Amz-Expires=300&X-Amz-Signature=140c21820ac71985960e2b40e400522d84b97bd20fd3328895ead146ff2c5824&X-Amz-SignedHeaders=host)" alt="Alt Text" style="width:15%; height:15%;">
+<img src="https://github.com/user-attachments/assets/444e2dc4-7d46-4db8-818f-43c23b9584b1" alt="Alt Text" style="width:15%; height:15%;">
 
 Hi, I’m SATHISH
 
