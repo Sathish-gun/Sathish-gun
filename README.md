@@ -10,7 +10,7 @@ Hi, I’m SATHISH
 - 👀 I’m interested in CICD Automation Technologies on cloud.
 - 🌱 I’m currently learning on How to work more efficiently in CICD projects.
 - 💞️ I'm looking to collaborate on a DevOps project to automate our deployment process.
-- 📫 How to reach me: www.linkedin.com/in/sathishkumar1511 • sathishganesan1511@gmail.com
+- 📫 How to reach me: www.linkedin.com/in/sathish1511 • sathishganesan1511@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm shy at first but once I know you well I'll haunt you forever👻.
 
